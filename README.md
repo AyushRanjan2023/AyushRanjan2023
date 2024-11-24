@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AyushRanjan2023
+- 👋 Hi, I’m Ayush Ranjan
 - 👀 I’m interested in Web development and Machine Learning
 - 🌱 I’m currently learning Full stack web development
 - 💞️ I’m looking to collaborate on development for project related to real world project
